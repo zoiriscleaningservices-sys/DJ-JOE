@@ -1,0 +1,7 @@
+# www.robotstxt.org/
+# Allow all search bots to crawl the entire site
+User-agent: *
+Allow: /
+
+# Sitemap Location
+Sitemap: https://djjoeentertainment.com/sitemap.xml
